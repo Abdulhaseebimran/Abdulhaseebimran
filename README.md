@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Abdulhaseebimran/Abdulhaseebimran/blob/main/animated.png.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Abdul Haseeb Imran</h1>
 <h3 align="center">A Passionate Developer from Pakistan</h3>
 
