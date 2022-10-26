@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Haseeb Imran</h1>
 <h3 align="center">A Passionate Developer from Pakistan</h3>
 
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="500" alt = "coding"/>
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="1000" alt = "coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhaseebimran&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhaseebimran" /> </p>
 
