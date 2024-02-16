@@ -7,7 +7,9 @@
 
 -  👨‍💻 All of my projects are available at https://www.linkedin.com/in/abdul-haseeb-36a917230/
 
--  📫 How to reach me abdulhaseeb8345@gmail.com  
+-  📫 How to reach me abdulhaseeb8345@gmail.com
+  
+-  💻 protfolio link https://portfolio-smit.netlify.app/
 
 
 </h4> 
@@ -32,7 +34,7 @@
 </div>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,react,js,html,css,bootstrap,tailwind,nodejs,github,git,vscode,firebase,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,nodejs,github,git,vscode,firebase,c,java)](https://skillicons.dev)
 
 
 ## Support.
