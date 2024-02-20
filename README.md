@@ -9,7 +9,7 @@
 
 -  📫 How to reach me abdulhaseeb8345@gmail.com
   
--  💻 portfolio link https://portfolio-smit.netlify.app/
+-  💻 Portfolio link https://portfolio-smit.netlify.app/
 
 
 </h4> 
