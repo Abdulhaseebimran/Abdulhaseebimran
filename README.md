@@ -49,7 +49,7 @@
 [![Abdulhaseebimran GitHub | Languages Over Time](https://stats.quine.sh/Abdulhaseebimran/languages-over-time?theme=dark)](https://quine.sh)
 
 ## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abdulhaseebimran&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdulhaseebimran&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 
 ## GitHub Graph
 [![Abdulhaseebimran github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdulhaseebimran&theme=github-compact	)](https://github.com/Abdulhaseebimran/github-readme-activity-graph)
