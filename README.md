@@ -34,7 +34,7 @@
 </div>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,nodejs,github,git,vscode,firebase,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,html,css,bootstrap,tailwind,nodejs,github,git,vscode,firebase,c,java)](https://skillicons.dev)
 
 
 ## Support.
