@@ -5,8 +5,8 @@
 
 - I’m passionate about web technologies and a JavaScript enthusiast ⚡. I’m learning modern frameworks like React.js ⚛, Node.js, Express.js, Vue.js, and Laravel to grow as a successful Modern Web Developer.
 
-- 👨‍💻 My projects are available on LinkedIn, and my Project Portfolio can be found here.
-
+- 👨‍💻 My projects are available on [LinkedIn](https://www.linkedin.com/in/abdul-haseeb-36a917230/), and my Project Portfolio can be found [here](https://abdulhaseebimran.vercel.app/).
+  
 - 📫 You can reach me at abdulhaseeb8345@gmail.com.
 
 - 🌱 I’m constantly learning new tools and technologies to stay updated in the evolving web development landscape.
