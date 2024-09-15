@@ -1,15 +1,22 @@
 ![GitHub-bg](https://github.com/Abdulhaseebimran/Abdulhaseebimran/blob/main/background.jpeg)
 <h4>
   
-- Hello 👋, My self Abdul Haseeb Imran. I’m a Front-end Developer 💻  based in Pakistan. And currently doing my BS in Computer Science from SMI University Karachi.
- 
--  I’m a web and JavaScript enthusiast ⚡. Currently learning React.js **⚛**, Node.js, Express.js and being a successful Modern Web Developer.
+-  Hello 👋, I'm Abdul Haseeb Imran. I’m a Full Stack Developer 💻 based in Pakistan, currently pursuing a BS in Computer Science from SMI University, Karachi.
 
--  👨‍💻 All of my projects are available at https://www.linkedin.com/in/abdul-haseeb-36a917230/
+- I’m passionate about web technologies and a JavaScript enthusiast ⚡. I’m learning modern frameworks like React.js ⚛, Node.js, Express.js, Vue.js, and Laravel to grow as a successful Modern Web Developer.
 
--  📫 How to reach me abdulhaseeb8345@gmail.com
-  
--  💻 My Project Portfolio https://abdulhaseebimran.vercel.app/
+- 👨‍💻 My projects are available on LinkedIn, and my Project Portfolio can be found here.
+
+- 📫 You can reach me at abdulhaseeb8345@gmail.com.
+
+- 🌱 I’m constantly learning new tools and technologies to stay updated in the evolving web development landscape.
+
+  ## 🛠️ Skills:
+
+- Frontend: HTML, CSS, JavaScript (ES6+), Typescript, React.js, Vue.js, responsive design.
+- Backend: Node.js, Express.js, Laravel.
+- Databases: MongoDB, MySQL.
+- Tools: Git, GitHub, Postman, Figma, vscode.
 
 
 </h4> 
@@ -34,7 +41,7 @@
 </div>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,html,css,bootstrap,tailwind,nodejs,github,git,vscode,firebase,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,vue,typescript,php,html,css,bootstrap,tailwind,nodejs,express,mongodb,laravel,github,git,vscode,firebase,c,java)](https://skillicons.dev)
 
 
 ## Support.
